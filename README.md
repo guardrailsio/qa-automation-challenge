@@ -9,7 +9,7 @@
 
 ## Cypress Exercise
 
-For the Cypress exercise, you will help us testing our [awesome juice e-commerce](https://juice-shop.herokuapp.com/).
+For the Cypress exercise, you will help us testing the [awesome OWASP Juice shop](https://juice-shop.herokuapp.com/).
 You will have to test 3 different scenarios:
 
 1. Login with your user, add 1 item to the basket, click on checkout, add a new address, fill in the address form, click on submit.
@@ -21,7 +21,7 @@ Please make sure your tests are running properly and we can easily test your wor
 ## Integration Testing Exercise
 
 Great, now that you're done with Cypress, we would also want to ensure our APIs are doing their jobs correctly.
-Still within our [awesome juice e-commerce](https://juice-shop.herokuapp.com/), find the APIs endpoints and test the following scenarios:
+Still within the [awesome OWASP Juice shop](https://juice-shop.herokuapp.com/), find the APIs endpoints and test the following scenarios:
 
 1. Sign in the user, add 1 item to the basket, verify that 1 item is in the basket
 2. Same as previous scenario but add 2 items instead of 1 to the basket
