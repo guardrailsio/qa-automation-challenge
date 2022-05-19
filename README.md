@@ -32,12 +32,14 @@ You can use the tool of your choice (Jest, Postman etc...), just make sure it is
 ## Scoring
 | Cypress                | Points |
 |------------------------|--------|
-| ...                    | 0-5    |
+| Clean / clear code     | 0-5    |
+| Project structure      | 0-3    |
+| Comments               | 0-2    |
+| Linter / Prettifier    | 0-1    |
 
-| Integration   | Points |
-|---------------|--------|
-| ...           | 0-3    |
-| ...           | 0-5    |
+| Integration       | Points |
+|-------------------|--------|
+| Project Structure | 0-3    |
 
 | General             | Points |
 |---------------------|--------|
